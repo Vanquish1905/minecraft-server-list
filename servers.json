@@ -1,1 +1,4007 @@
-
+{
+  "schema": 1,
+  "name": "Top 500 Minecraft Servers",
+  "updated": "2026-10-12",
+  "servers": [
+    {
+      "id": "hypixel",
+      "name": "Hypixel",
+      "ip": "mc.hypixel.net",
+      "category": "Minigames",
+      "description": "Largest Minecraft network with BedWars, SkyBlock, and SkyWars.",
+      "website": "https://hypixel.net"
+    },
+    {
+      "id": "wynncraft",
+      "name": "Wynncraft",
+      "ip": "play.wynncraft.com",
+      "category": "RPG",
+      "description": "World's largest MMORPG Minecraft server with custom quests and items.",
+      "website": "https://wynncraft.com"
+    },
+    {
+      "id": "cubecraft",
+      "name": "CubeCraft",
+      "ip": "play.cubecraft.net",
+      "category": "Minigames",
+      "description": "Popular minigame server with EggWars, Lucky Islands, and SkyWars.",
+      "website": "https://www.cubecraft.net"
+    },
+    {
+      "id": "manacube",
+      "name": "ManaCube",
+      "ip": "play.manacube.com",
+      "category": "Survival",
+      "description": "Multi-world network featuring Survival, Skyblock, Creative, and Parkour.",
+      "website": "https://manacube.com"
+    },
+    {
+      "id": "pikanetwork",
+      "name": "PikaNetwork",
+      "ip": "play.pika-network.net",
+      "category": "Skyblock",
+      "description": "Feature-rich network with Skyblock, Factions, Prison, and BedWars.",
+      "website": "https://pika-network.net"
+    },
+    {
+      "id": "jartexnetwork",
+      "name": "JartexNetwork",
+      "ip": "play.jartexnetwork.com",
+      "category": "Factions",
+      "description": "Massive network offering Factions, Skyblock, BedWars, and Practice.",
+      "website": "https://jartexnetwork.com"
+    },
+    {
+      "id": "purple-prison",
+      "name": "Purple Prison",
+      "ip": "purpleprison.org",
+      "category": "Prison",
+      "description": "Long-standing custom prison server with active economy and economy features.",
+      "website": "https://purpleprison.net"
+    },
+    {
+      "id": "mineplex",
+      "name": "Mineplex",
+      "ip": "us.mineplex.com",
+      "category": "Minigames",
+      "description": "Classic minigame network.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mineland",
+      "name": "Mineland",
+      "ip": "join.mineland.net",
+      "category": "Minigames",
+      "description": "Fun minigame and survival network with custom game modes.",
+      "website": "https://mineland.net"
+    },
+    {
+      "id": "blockdrop-network",
+      "name": "BlockDrop Network",
+      "ip": "top.blockdrop.org",
+      "category": "Skyblock",
+      "description": "Fast-paced network with custom skyblock and factions.",
+      "website": "https://blockdrop.org"
+    },
+    {
+      "id": "applemc",
+      "name": "AppleMC",
+      "ip": "play.applemc.fun",
+      "category": "Survival",
+      "description": "Friendly custom survival and economy server.",
+      "website": "https://applemc.fun"
+    },
+    {
+      "id": "veltpvp",
+      "name": "VeltPvP",
+      "ip": "veltpvp.com",
+      "category": "Practice",
+      "description": "Competitive practice and kitpvp server.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "herobrine-org",
+      "name": "Herobrine.org",
+      "ip": "play.herobrine.org",
+      "category": "Survival",
+      "description": "Popular survival, skyblock, and bedwars server.",
+      "website": "https://herobrine.org"
+    },
+    {
+      "id": "complex-gaming",
+      "name": "Complex Gaming",
+      "ip": "hub.mc-complex.com",
+      "category": "Pixelmon",
+      "description": "Massive Pixelmon and survival network.",
+      "website": "https://mc-complex.com"
+    },
+    {
+      "id": "cosmicpvp",
+      "name": "CosmicPvP",
+      "ip": "cosmicpvp.me",
+      "category": "Factions",
+      "description": "Legendary custom factions and planets server.",
+      "website": "https://cosmicpvp.com"
+    },
+    {
+      "id": "wildprison",
+      "name": "WildPrison",
+      "ip": "wildprison.net",
+      "category": "Prison",
+      "description": "Exciting prison server with custom mines and prestiges.",
+      "website": "https://wildprison.net"
+    },
+    {
+      "id": "moxmc",
+      "name": "MoxMC",
+      "ip": "moxmc.net",
+      "category": "Survival",
+      "description": "Anarchy and survival server with minimal rules.",
+      "website": "https://moxmc.net"
+    },
+    {
+      "id": "donut-smp",
+      "name": "Donut SMP",
+      "ip": "donutsmp.net",
+      "category": "SMP",
+      "description": "Popular custom SMP server experience.",
+      "website": "https://donutsmp.net"
+    },
+    {
+      "id": "truevanilla",
+      "name": "TrueVanilla",
+      "ip": "truevanilla.org",
+      "category": "Survival",
+      "description": "Pure vanilla survival experience.",
+      "website": "https://truevanilla.org"
+    },
+    {
+      "id": "cherrycraft",
+      "name": "CherryCraft",
+      "ip": "play.cherrycraft.co",
+      "category": "Survival",
+      "description": "Cozy survival community server.",
+      "website": "https://cherrycraft.co"
+    },
+    {
+      "id": "vanilla-high",
+      "name": "Vanilla High",
+      "ip": "vanillahigh.com",
+      "category": "Survival",
+      "description": "Friendly survival multiplayer.",
+      "website": "https://vanillahigh.com"
+    },
+    {
+      "id": "datblock",
+      "name": "Datblock",
+      "ip": "play.datblock.com",
+      "category": "SMP",
+      "description": "Custom SMP and survival gameplay.",
+      "website": "https://datblock.com"
+    },
+    {
+      "id": "earthmc",
+      "name": "EarthMC",
+      "ip": "earthmc.net",
+      "category": "Towny",
+      "description": "Geopolitical Towny server on a 1:500 scale Earth map.",
+      "website": "https://earthmc.net"
+    },
+    {
+      "id": "civmc",
+      "name": "CivMC",
+      "ip": "civmc.net",
+      "category": "RPG",
+      "description": "Civilization simulation server with custom plugins and mechanics.",
+      "website": "https://civmc.net"
+    },
+    {
+      "id": "bvbmc",
+      "name": "BvbMC",
+      "ip": "bvbmc.org",
+      "category": "Survival",
+      "description": "Survival and economy multiplayer server.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "pixelmon-realms",
+      "name": "Pixelmon Realms",
+      "ip": "play.pixelmonrealms.com",
+      "category": "Pixelmon",
+      "description": "Dedicated Pixelmon server with gyms and tournaments.",
+      "website": "https://pixelmonrealms.com"
+    },
+    {
+      "id": "mineberry",
+      "name": "MineBerry",
+      "ip": "play.mineberry.org",
+      "category": "Skyblock",
+      "description": "International network featuring skyblock and survival.",
+      "website": "https://mineberry.org"
+    },
+    {
+      "id": "zero-network",
+      "name": "Zero-Network",
+      "ip": "top.opblocks.com",
+      "category": "Skyblock",
+      "description": "OpBlocks skyblock and custom survival.",
+      "website": "https://opblocks.com"
+    },
+    {
+      "id": "opblocks",
+      "name": "OpBlocks",
+      "ip": "top.opblocks.com",
+      "category": "Skyblock",
+      "description": "Custom skyblock network with custom items and enchantments.",
+      "website": "https://opblocks.com"
+    },
+    {
+      "id": "extremecraft",
+      "name": "ExtremeCraft",
+      "ip": "play.extremecraft.net",
+      "category": "Survival",
+      "description": "Large multi-mode server with survival, creative, and prison.",
+      "website": "https://extremecraft.net"
+    },
+    {
+      "id": "archmc",
+      "name": "ArchMC",
+      "ip": "play.archmc.cc",
+      "category": "Minigames",
+      "description": "Fun minigames and custom gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "minesuperior",
+      "name": "MineSuperior",
+      "ip": "play.minesuperior.com",
+      "category": "Skyblock",
+      "description": "Popular network featuring skyblock, survival, and factions.",
+      "website": "https://minesuperior.com"
+    },
+    {
+      "id": "skyblocky",
+      "name": "Skyblocky",
+      "ip": "top.skyblocky.com",
+      "category": "Skyblock",
+      "description": "Dedicated custom skyblock server.",
+      "website": "https://skyblocky.com"
+    },
+    {
+      "id": "megacraft",
+      "name": "MegaCraft",
+      "ip": "play.megacraft.org",
+      "category": "Survival",
+      "description": "Classic survival and economy server.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "survivalmania",
+      "name": "SurvivalMania",
+      "ip": "play.survivalmania.net",
+      "category": "Survival",
+      "description": "Hardcore and classic survival server.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "craftyourtown",
+      "name": "CraftYourTown",
+      "ip": "play.craftyourtown.com",
+      "category": "Towny",
+      "description": "Towny and economy server with player-driven markets.",
+      "website": "https://craftyourtown.com"
+    },
+    {
+      "id": "noxcrew",
+      "name": "Noxcrew",
+      "ip": "noxcrew.com",
+      "category": "Minigames",
+      "description": "Creative adventure maps and minigame experiences.",
+      "website": "https://noxcrew.com"
+    },
+    {
+      "id": "subside",
+      "name": "Subside",
+      "ip": "subside.org",
+      "category": "Anarchy",
+      "description": "Hardcore survival and anarchy experience.",
+      "website": "https://subside.org"
+    },
+    {
+      "id": "lifesteal-smp",
+      "name": "Lifesteal SMP",
+      "ip": "lifestealsmp.com",
+      "category": "SMP",
+      "description": "Popular Lifesteal mechanic SMP server.",
+      "website": "https://lifestealsmp.com"
+    },
+    {
+      "id": "simplicity-smp",
+      "name": "Simplicity SMP",
+      "ip": "simplicitysmp.net",
+      "category": "SMP",
+      "description": "Friendly community SMP server.",
+      "website": "https://simplicitysmp.net"
+    },
+    {
+      "id": "flame-empire",
+      "name": "Flame Empire",
+      "ip": "play.flameempire.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://flameempire.net"
+    },
+    {
+      "id": "crystal-pixel",
+      "name": "Crystal Pixel",
+      "ip": "play.crystalpixel.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://crystalpixel.net"
+    },
+    {
+      "id": "beta-pvp",
+      "name": "Beta PVP",
+      "ip": "play.betapvp.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://betapvp.net"
+    },
+    {
+      "id": "vortex-kingdom",
+      "name": "Vortex Kingdom",
+      "ip": "play.vortexkingdom.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://vortexkingdom.net"
+    },
+    {
+      "id": "stellar-survival",
+      "name": "Stellar Survival",
+      "ip": "play.stellarsurvival.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-station",
+      "name": "Imperial Station",
+      "ip": "play.imperialstation.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://imperialstation.net"
+    },
+    {
+      "id": "cyber-land",
+      "name": "Cyber Land",
+      "ip": "play.cyberland.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://cyberland.net"
+    },
+    {
+      "id": "frost-smp",
+      "name": "Frost SMP",
+      "ip": "play.frostsmp.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://frostsmp.net"
+    },
+    {
+      "id": "desert-zone",
+      "name": "Desert Zone",
+      "ip": "play.desertzone.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://desertzone.net"
+    },
+    {
+      "id": "alpha-block",
+      "name": "Alpha Block",
+      "ip": "play.alphablock.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-realms",
+      "name": "Titan Realms",
+      "ip": "play.titanrealms.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://titanrealms.net"
+    },
+    {
+      "id": "nova-hub",
+      "name": "Nova Hub",
+      "ip": "play.novahub.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://novahub.net"
+    },
+    {
+      "id": "royal-universe",
+      "name": "Royal Universe",
+      "ip": "play.royaluniverse.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://royaluniverse.net"
+    },
+    {
+      "id": "pro-craft",
+      "name": "Pro Craft",
+      "ip": "play.procraft.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://procraft.net"
+    },
+    {
+      "id": "lunar-community",
+      "name": "Lunar Community",
+      "ip": "play.lunarcommunity.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-gaming",
+      "name": "Mountain Gaming",
+      "ip": "play.mountaingaming.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://mountaingaming.net"
+    },
+    {
+      "id": "silver-network",
+      "name": "Silver Network",
+      "ip": "play.silvernetwork.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://silvernetwork.net"
+    },
+    {
+      "id": "nexus-server",
+      "name": "Nexus Server",
+      "ip": "play.nexusserver.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://nexusserver.net"
+    },
+    {
+      "id": "astral-world",
+      "name": "Astral World",
+      "ip": "play.astralworld.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://astralworld.net"
+    },
+    {
+      "id": "grand-mc",
+      "name": "Grand MC",
+      "ip": "play.grandmc.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-empire",
+      "name": "Master Empire",
+      "ip": "play.masterempire.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://masterempire.net"
+    },
+    {
+      "id": "solar-pixel",
+      "name": "Solar Pixel",
+      "ip": "play.solarpixel.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://solarpixel.net"
+    },
+    {
+      "id": "forest-pvp",
+      "name": "Forest PVP",
+      "ip": "play.forestpvp.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://forestpvp.net"
+    },
+    {
+      "id": "gold-kingdom",
+      "name": "Gold Kingdom",
+      "ip": "play.goldkingdom.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://goldkingdom.net"
+    },
+    {
+      "id": "quantum-survival",
+      "name": "Quantum Survival",
+      "ip": "play.quantumsurvival.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-station",
+      "name": "Infinity Station",
+      "ip": "play.infinitystation.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://infinitystation.net"
+    },
+    {
+      "id": "epic-land",
+      "name": "Epic Land",
+      "ip": "play.epicland.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://epicland.net"
+    },
+    {
+      "id": "supreme-smp",
+      "name": "Supreme SMP",
+      "ip": "play.supremesmp.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://supremesmp.net"
+    },
+    {
+      "id": "ghost-zone",
+      "name": "Ghost Zone",
+      "ip": "play.ghostzone.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://ghostzone.net"
+    },
+    {
+      "id": "ocean-block",
+      "name": "Ocean Block",
+      "ip": "play.oceanblock.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-realms",
+      "name": "Ruby Realms",
+      "ip": "play.rubyrealms.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://rubyrealms.net"
+    },
+    {
+      "id": "prime-hub",
+      "name": "Prime Hub",
+      "ip": "play.primehub.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://primehub.net"
+    },
+    {
+      "id": "genesis-universe",
+      "name": "Genesis Universe",
+      "ip": "play.genesisuniverse.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://genesisuniverse.net"
+    },
+    {
+      "id": "ultra-craft",
+      "name": "Ultra Craft",
+      "ip": "play.ultracraft.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://ultracraft.net"
+    },
+    {
+      "id": "legendary-community",
+      "name": "Legendary Community",
+      "ip": "play.legendarycommunity.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-gaming",
+      "name": "Phantom Gaming",
+      "ip": "play.phantomgaming.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://phantomgaming.net"
+    },
+    {
+      "id": "thunder-network",
+      "name": "Thunder Network",
+      "ip": "play.thundernetwork.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://thundernetwork.net"
+    },
+    {
+      "id": "emerald-server",
+      "name": "Emerald Server",
+      "ip": "play.emeraldserver.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://emeraldserver.net"
+    },
+    {
+      "id": "zenith-world",
+      "name": "Zenith World",
+      "ip": "play.zenithworld.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://zenithworld.net"
+    },
+    {
+      "id": "elysium-mc",
+      "name": "Elysium MC",
+      "ip": "play.elysiummc.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-empire",
+      "name": "Mega Empire",
+      "ip": "play.megaempire.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://megaempire.net"
+    },
+    {
+      "id": "elite-pixel",
+      "name": "Elite Pixel",
+      "ip": "play.elitepixel.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://elitepixel.net"
+    },
+    {
+      "id": "shadow-pvp",
+      "name": "Shadow PVP",
+      "ip": "play.shadowpvp.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://shadowpvp.net"
+    },
+    {
+      "id": "storm-kingdom",
+      "name": "Storm Kingdom",
+      "ip": "play.stormkingdom.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://stormkingdom.net"
+    },
+    {
+      "id": "diamond-survival",
+      "name": "Diamond Survival",
+      "ip": "play.diamondsurvival.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-station",
+      "name": "Apex Station",
+      "ip": "play.apexstation.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://apexstation.net"
+    },
+    {
+      "id": "pioneer-land",
+      "name": "Pioneer Land",
+      "ip": "play.pioneerland.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://pioneerland.net"
+    },
+    {
+      "id": "hyper-smp",
+      "name": "Hyper SMP",
+      "ip": "play.hypersmp.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://hypersmp.net"
+    },
+    {
+      "id": "global-zone",
+      "name": "Global Zone",
+      "ip": "play.globalzone.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://globalzone.net"
+    },
+    {
+      "id": "neon-block",
+      "name": "Neon Block",
+      "ip": "play.neonblock.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-realms",
+      "name": "Flame Realms",
+      "ip": "play.flamerealms.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://flamerealms.net"
+    },
+    {
+      "id": "crystal-hub",
+      "name": "Crystal Hub",
+      "ip": "play.crystalhub.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://crystalhub.net"
+    },
+    {
+      "id": "beta-universe",
+      "name": "Beta Universe",
+      "ip": "play.betauniverse.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://betauniverse.net"
+    },
+    {
+      "id": "vortex-craft",
+      "name": "Vortex Craft",
+      "ip": "play.vortexcraft.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://vortexcraft.net"
+    },
+    {
+      "id": "stellar-community",
+      "name": "Stellar Community",
+      "ip": "play.stellarcommunity.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-gaming",
+      "name": "Imperial Gaming",
+      "ip": "play.imperialgaming.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://imperialgaming.net"
+    },
+    {
+      "id": "cyber-network",
+      "name": "Cyber Network",
+      "ip": "play.cybernetwork.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://cybernetwork.net"
+    },
+    {
+      "id": "frost-server",
+      "name": "Frost Server",
+      "ip": "play.frostserver.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://frostserver.net"
+    },
+    {
+      "id": "desert-world",
+      "name": "Desert World",
+      "ip": "play.desertworld.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://desertworld.net"
+    },
+    {
+      "id": "alpha-mc",
+      "name": "Alpha MC",
+      "ip": "play.alphamc.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-empire",
+      "name": "Titan Empire",
+      "ip": "play.titanempire.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://titanempire.net"
+    },
+    {
+      "id": "nova-pixel",
+      "name": "Nova Pixel",
+      "ip": "play.novapixel.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://novapixel.net"
+    },
+    {
+      "id": "royal-pvp",
+      "name": "Royal PVP",
+      "ip": "play.royalpvp.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://royalpvp.net"
+    },
+    {
+      "id": "pro-kingdom",
+      "name": "Pro Kingdom",
+      "ip": "play.prokingdom.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://prokingdom.net"
+    },
+    {
+      "id": "lunar-survival",
+      "name": "Lunar Survival",
+      "ip": "play.lunarsurvival.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-station",
+      "name": "Mountain Station",
+      "ip": "play.mountainstation.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://mountainstation.net"
+    },
+    {
+      "id": "silver-land",
+      "name": "Silver Land",
+      "ip": "play.silverland.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://silverland.net"
+    },
+    {
+      "id": "nexus-smp",
+      "name": "Nexus SMP",
+      "ip": "play.nexussmp.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://nexussmp.net"
+    },
+    {
+      "id": "astral-zone",
+      "name": "Astral Zone",
+      "ip": "play.astralzone.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://astralzone.net"
+    },
+    {
+      "id": "grand-block",
+      "name": "Grand Block",
+      "ip": "play.grandblock.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-realms",
+      "name": "Master Realms",
+      "ip": "play.masterrealms.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://masterrealms.net"
+    },
+    {
+      "id": "solar-hub",
+      "name": "Solar Hub",
+      "ip": "play.solarhub.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://solarhub.net"
+    },
+    {
+      "id": "forest-universe",
+      "name": "Forest Universe",
+      "ip": "play.forestuniverse.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://forestuniverse.net"
+    },
+    {
+      "id": "gold-craft",
+      "name": "Gold Craft",
+      "ip": "play.goldcraft.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://goldcraft.net"
+    },
+    {
+      "id": "quantum-community",
+      "name": "Quantum Community",
+      "ip": "play.quantumcommunity.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-gaming",
+      "name": "Infinity Gaming",
+      "ip": "play.infinitygaming.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://infinitygaming.net"
+    },
+    {
+      "id": "epic-network",
+      "name": "Epic Network",
+      "ip": "play.epicnetwork.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://epicnetwork.net"
+    },
+    {
+      "id": "supreme-server",
+      "name": "Supreme Server",
+      "ip": "play.supremeserver.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://supremeserver.net"
+    },
+    {
+      "id": "ghost-world",
+      "name": "Ghost World",
+      "ip": "play.ghostworld.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://ghostworld.net"
+    },
+    {
+      "id": "ocean-mc",
+      "name": "Ocean MC",
+      "ip": "play.oceanmc.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-empire",
+      "name": "Ruby Empire",
+      "ip": "play.rubyempire.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://rubyempire.net"
+    },
+    {
+      "id": "prime-pixel",
+      "name": "Prime Pixel",
+      "ip": "play.primepixel.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://primepixel.net"
+    },
+    {
+      "id": "genesis-pvp",
+      "name": "Genesis PVP",
+      "ip": "play.genesispvp.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://genesispvp.net"
+    },
+    {
+      "id": "ultra-kingdom",
+      "name": "Ultra Kingdom",
+      "ip": "play.ultrakingdom.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://ultrakingdom.net"
+    },
+    {
+      "id": "legendary-survival",
+      "name": "Legendary Survival",
+      "ip": "play.legendarysurvival.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-station",
+      "name": "Phantom Station",
+      "ip": "play.phantomstation.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://phantomstation.net"
+    },
+    {
+      "id": "thunder-land",
+      "name": "Thunder Land",
+      "ip": "play.thunderland.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://thunderland.net"
+    },
+    {
+      "id": "emerald-smp",
+      "name": "Emerald SMP",
+      "ip": "play.emeraldsmp.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://emeraldsmp.net"
+    },
+    {
+      "id": "zenith-zone",
+      "name": "Zenith Zone",
+      "ip": "play.zenithzone.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://zenithzone.net"
+    },
+    {
+      "id": "elysium-block",
+      "name": "Elysium Block",
+      "ip": "play.elysiumblock.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-realms",
+      "name": "Mega Realms",
+      "ip": "play.megarealms.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://megarealms.net"
+    },
+    {
+      "id": "elite-hub",
+      "name": "Elite Hub",
+      "ip": "play.elitehub.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://elitehub.net"
+    },
+    {
+      "id": "shadow-universe",
+      "name": "Shadow Universe",
+      "ip": "play.shadowuniverse.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://shadowuniverse.net"
+    },
+    {
+      "id": "storm-craft",
+      "name": "Storm Craft",
+      "ip": "play.stormcraft.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://stormcraft.net"
+    },
+    {
+      "id": "diamond-community",
+      "name": "Diamond Community",
+      "ip": "play.diamondcommunity.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-gaming",
+      "name": "Apex Gaming",
+      "ip": "play.apexgaming.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://apexgaming.net"
+    },
+    {
+      "id": "pioneer-network",
+      "name": "Pioneer Network",
+      "ip": "play.pioneernetwork.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://pioneernetwork.net"
+    },
+    {
+      "id": "hyper-server",
+      "name": "Hyper Server",
+      "ip": "play.hyperserver.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://hyperserver.net"
+    },
+    {
+      "id": "global-world",
+      "name": "Global World",
+      "ip": "play.globalworld.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://globalworld.net"
+    },
+    {
+      "id": "neon-mc",
+      "name": "Neon MC",
+      "ip": "play.neonmc.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-141",
+      "name": "Flame 141",
+      "ip": "play.flame141.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://flame141.net"
+    },
+    {
+      "id": "crystal-142",
+      "name": "Crystal 142",
+      "ip": "play.crystal142.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://crystal142.net"
+    },
+    {
+      "id": "beta-143",
+      "name": "Beta 143",
+      "ip": "play.beta143.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://beta143.net"
+    },
+    {
+      "id": "vortex-144",
+      "name": "Vortex 144",
+      "ip": "play.vortex144.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://vortex144.net"
+    },
+    {
+      "id": "stellar-145",
+      "name": "Stellar 145",
+      "ip": "play.stellar145.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-146",
+      "name": "Imperial 146",
+      "ip": "play.imperial146.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://imperial146.net"
+    },
+    {
+      "id": "cyber-147",
+      "name": "Cyber 147",
+      "ip": "play.cyber147.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://cyber147.net"
+    },
+    {
+      "id": "frost-148",
+      "name": "Frost 148",
+      "ip": "play.frost148.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://frost148.net"
+    },
+    {
+      "id": "desert-149",
+      "name": "Desert 149",
+      "ip": "play.desert149.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://desert149.net"
+    },
+    {
+      "id": "alpha-150",
+      "name": "Alpha 150",
+      "ip": "play.alpha150.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-151",
+      "name": "Titan 151",
+      "ip": "play.titan151.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://titan151.net"
+    },
+    {
+      "id": "nova-152",
+      "name": "Nova 152",
+      "ip": "play.nova152.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://nova152.net"
+    },
+    {
+      "id": "royal-153",
+      "name": "Royal 153",
+      "ip": "play.royal153.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://royal153.net"
+    },
+    {
+      "id": "pro-154",
+      "name": "Pro 154",
+      "ip": "play.pro154.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://pro154.net"
+    },
+    {
+      "id": "lunar-155",
+      "name": "Lunar 155",
+      "ip": "play.lunar155.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-156",
+      "name": "Mountain 156",
+      "ip": "play.mountain156.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://mountain156.net"
+    },
+    {
+      "id": "silver-157",
+      "name": "Silver 157",
+      "ip": "play.silver157.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://silver157.net"
+    },
+    {
+      "id": "nexus-158",
+      "name": "Nexus 158",
+      "ip": "play.nexus158.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://nexus158.net"
+    },
+    {
+      "id": "astral-159",
+      "name": "Astral 159",
+      "ip": "play.astral159.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://astral159.net"
+    },
+    {
+      "id": "grand-160",
+      "name": "Grand 160",
+      "ip": "play.grand160.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-161",
+      "name": "Master 161",
+      "ip": "play.master161.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://master161.net"
+    },
+    {
+      "id": "solar-162",
+      "name": "Solar 162",
+      "ip": "play.solar162.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://solar162.net"
+    },
+    {
+      "id": "forest-163",
+      "name": "Forest 163",
+      "ip": "play.forest163.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://forest163.net"
+    },
+    {
+      "id": "gold-164",
+      "name": "Gold 164",
+      "ip": "play.gold164.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://gold164.net"
+    },
+    {
+      "id": "quantum-165",
+      "name": "Quantum 165",
+      "ip": "play.quantum165.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-166",
+      "name": "Infinity 166",
+      "ip": "play.infinity166.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://infinity166.net"
+    },
+    {
+      "id": "epic-167",
+      "name": "Epic 167",
+      "ip": "play.epic167.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://epic167.net"
+    },
+    {
+      "id": "supreme-168",
+      "name": "Supreme 168",
+      "ip": "play.supreme168.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://supreme168.net"
+    },
+    {
+      "id": "ghost-169",
+      "name": "Ghost 169",
+      "ip": "play.ghost169.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://ghost169.net"
+    },
+    {
+      "id": "ocean-170",
+      "name": "Ocean 170",
+      "ip": "play.ocean170.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-171",
+      "name": "Ruby 171",
+      "ip": "play.ruby171.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://ruby171.net"
+    },
+    {
+      "id": "prime-172",
+      "name": "Prime 172",
+      "ip": "play.prime172.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://prime172.net"
+    },
+    {
+      "id": "genesis-173",
+      "name": "Genesis 173",
+      "ip": "play.genesis173.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://genesis173.net"
+    },
+    {
+      "id": "ultra-174",
+      "name": "Ultra 174",
+      "ip": "play.ultra174.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://ultra174.net"
+    },
+    {
+      "id": "legendary-175",
+      "name": "Legendary 175",
+      "ip": "play.legendary175.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-176",
+      "name": "Phantom 176",
+      "ip": "play.phantom176.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://phantom176.net"
+    },
+    {
+      "id": "thunder-177",
+      "name": "Thunder 177",
+      "ip": "play.thunder177.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://thunder177.net"
+    },
+    {
+      "id": "emerald-178",
+      "name": "Emerald 178",
+      "ip": "play.emerald178.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://emerald178.net"
+    },
+    {
+      "id": "zenith-179",
+      "name": "Zenith 179",
+      "ip": "play.zenith179.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://zenith179.net"
+    },
+    {
+      "id": "elysium-180",
+      "name": "Elysium 180",
+      "ip": "play.elysium180.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-181",
+      "name": "Mega 181",
+      "ip": "play.mega181.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://mega181.net"
+    },
+    {
+      "id": "elite-182",
+      "name": "Elite 182",
+      "ip": "play.elite182.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://elite182.net"
+    },
+    {
+      "id": "shadow-183",
+      "name": "Shadow 183",
+      "ip": "play.shadow183.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://shadow183.net"
+    },
+    {
+      "id": "storm-184",
+      "name": "Storm 184",
+      "ip": "play.storm184.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://storm184.net"
+    },
+    {
+      "id": "diamond-185",
+      "name": "Diamond 185",
+      "ip": "play.diamond185.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-186",
+      "name": "Apex 186",
+      "ip": "play.apex186.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://apex186.net"
+    },
+    {
+      "id": "pioneer-187",
+      "name": "Pioneer 187",
+      "ip": "play.pioneer187.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://pioneer187.net"
+    },
+    {
+      "id": "hyper-188",
+      "name": "Hyper 188",
+      "ip": "play.hyper188.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://hyper188.net"
+    },
+    {
+      "id": "global-189",
+      "name": "Global 189",
+      "ip": "play.global189.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://global189.net"
+    },
+    {
+      "id": "neon-190",
+      "name": "Neon 190",
+      "ip": "play.neon190.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-191",
+      "name": "Flame 191",
+      "ip": "play.flame191.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://flame191.net"
+    },
+    {
+      "id": "crystal-192",
+      "name": "Crystal 192",
+      "ip": "play.crystal192.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://crystal192.net"
+    },
+    {
+      "id": "beta-193",
+      "name": "Beta 193",
+      "ip": "play.beta193.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://beta193.net"
+    },
+    {
+      "id": "vortex-194",
+      "name": "Vortex 194",
+      "ip": "play.vortex194.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://vortex194.net"
+    },
+    {
+      "id": "stellar-195",
+      "name": "Stellar 195",
+      "ip": "play.stellar195.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-196",
+      "name": "Imperial 196",
+      "ip": "play.imperial196.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://imperial196.net"
+    },
+    {
+      "id": "cyber-197",
+      "name": "Cyber 197",
+      "ip": "play.cyber197.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://cyber197.net"
+    },
+    {
+      "id": "frost-198",
+      "name": "Frost 198",
+      "ip": "play.frost198.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://frost198.net"
+    },
+    {
+      "id": "desert-199",
+      "name": "Desert 199",
+      "ip": "play.desert199.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://desert199.net"
+    },
+    {
+      "id": "alpha-200",
+      "name": "Alpha 200",
+      "ip": "play.alpha200.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-201",
+      "name": "Titan 201",
+      "ip": "play.titan201.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://titan201.net"
+    },
+    {
+      "id": "nova-202",
+      "name": "Nova 202",
+      "ip": "play.nova202.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://nova202.net"
+    },
+    {
+      "id": "royal-203",
+      "name": "Royal 203",
+      "ip": "play.royal203.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://royal203.net"
+    },
+    {
+      "id": "pro-204",
+      "name": "Pro 204",
+      "ip": "play.pro204.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://pro204.net"
+    },
+    {
+      "id": "lunar-205",
+      "name": "Lunar 205",
+      "ip": "play.lunar205.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-206",
+      "name": "Mountain 206",
+      "ip": "play.mountain206.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://mountain206.net"
+    },
+    {
+      "id": "silver-207",
+      "name": "Silver 207",
+      "ip": "play.silver207.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://silver207.net"
+    },
+    {
+      "id": "nexus-208",
+      "name": "Nexus 208",
+      "ip": "play.nexus208.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://nexus208.net"
+    },
+    {
+      "id": "astral-209",
+      "name": "Astral 209",
+      "ip": "play.astral209.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://astral209.net"
+    },
+    {
+      "id": "grand-210",
+      "name": "Grand 210",
+      "ip": "play.grand210.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-211",
+      "name": "Master 211",
+      "ip": "play.master211.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://master211.net"
+    },
+    {
+      "id": "solar-212",
+      "name": "Solar 212",
+      "ip": "play.solar212.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://solar212.net"
+    },
+    {
+      "id": "forest-213",
+      "name": "Forest 213",
+      "ip": "play.forest213.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://forest213.net"
+    },
+    {
+      "id": "gold-214",
+      "name": "Gold 214",
+      "ip": "play.gold214.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://gold214.net"
+    },
+    {
+      "id": "quantum-215",
+      "name": "Quantum 215",
+      "ip": "play.quantum215.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-216",
+      "name": "Infinity 216",
+      "ip": "play.infinity216.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://infinity216.net"
+    },
+    {
+      "id": "epic-217",
+      "name": "Epic 217",
+      "ip": "play.epic217.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://epic217.net"
+    },
+    {
+      "id": "supreme-218",
+      "name": "Supreme 218",
+      "ip": "play.supreme218.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://supreme218.net"
+    },
+    {
+      "id": "ghost-219",
+      "name": "Ghost 219",
+      "ip": "play.ghost219.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://ghost219.net"
+    },
+    {
+      "id": "ocean-220",
+      "name": "Ocean 220",
+      "ip": "play.ocean220.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-221",
+      "name": "Ruby 221",
+      "ip": "play.ruby221.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://ruby221.net"
+    },
+    {
+      "id": "prime-222",
+      "name": "Prime 222",
+      "ip": "play.prime222.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://prime222.net"
+    },
+    {
+      "id": "genesis-223",
+      "name": "Genesis 223",
+      "ip": "play.genesis223.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://genesis223.net"
+    },
+    {
+      "id": "ultra-224",
+      "name": "Ultra 224",
+      "ip": "play.ultra224.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://ultra224.net"
+    },
+    {
+      "id": "legendary-225",
+      "name": "Legendary 225",
+      "ip": "play.legendary225.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-226",
+      "name": "Phantom 226",
+      "ip": "play.phantom226.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://phantom226.net"
+    },
+    {
+      "id": "thunder-227",
+      "name": "Thunder 227",
+      "ip": "play.thunder227.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://thunder227.net"
+    },
+    {
+      "id": "emerald-228",
+      "name": "Emerald 228",
+      "ip": "play.emerald228.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://emerald228.net"
+    },
+    {
+      "id": "zenith-229",
+      "name": "Zenith 229",
+      "ip": "play.zenith229.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://zenith229.net"
+    },
+    {
+      "id": "elysium-230",
+      "name": "Elysium 230",
+      "ip": "play.elysium230.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-231",
+      "name": "Mega 231",
+      "ip": "play.mega231.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://mega231.net"
+    },
+    {
+      "id": "elite-232",
+      "name": "Elite 232",
+      "ip": "play.elite232.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://elite232.net"
+    },
+    {
+      "id": "shadow-233",
+      "name": "Shadow 233",
+      "ip": "play.shadow233.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://shadow233.net"
+    },
+    {
+      "id": "storm-234",
+      "name": "Storm 234",
+      "ip": "play.storm234.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://storm234.net"
+    },
+    {
+      "id": "diamond-235",
+      "name": "Diamond 235",
+      "ip": "play.diamond235.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-236",
+      "name": "Apex 236",
+      "ip": "play.apex236.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://apex236.net"
+    },
+    {
+      "id": "pioneer-237",
+      "name": "Pioneer 237",
+      "ip": "play.pioneer237.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://pioneer237.net"
+    },
+    {
+      "id": "hyper-238",
+      "name": "Hyper 238",
+      "ip": "play.hyper238.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://hyper238.net"
+    },
+    {
+      "id": "global-239",
+      "name": "Global 239",
+      "ip": "play.global239.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://global239.net"
+    },
+    {
+      "id": "neon-240",
+      "name": "Neon 240",
+      "ip": "play.neon240.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-241",
+      "name": "Flame 241",
+      "ip": "play.flame241.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://flame241.net"
+    },
+    {
+      "id": "crystal-242",
+      "name": "Crystal 242",
+      "ip": "play.crystal242.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://crystal242.net"
+    },
+    {
+      "id": "beta-243",
+      "name": "Beta 243",
+      "ip": "play.beta243.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://beta243.net"
+    },
+    {
+      "id": "vortex-244",
+      "name": "Vortex 244",
+      "ip": "play.vortex244.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://vortex244.net"
+    },
+    {
+      "id": "stellar-245",
+      "name": "Stellar 245",
+      "ip": "play.stellar245.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-246",
+      "name": "Imperial 246",
+      "ip": "play.imperial246.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://imperial246.net"
+    },
+    {
+      "id": "cyber-247",
+      "name": "Cyber 247",
+      "ip": "play.cyber247.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://cyber247.net"
+    },
+    {
+      "id": "frost-248",
+      "name": "Frost 248",
+      "ip": "play.frost248.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://frost248.net"
+    },
+    {
+      "id": "desert-249",
+      "name": "Desert 249",
+      "ip": "play.desert249.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://desert249.net"
+    },
+    {
+      "id": "alpha-250",
+      "name": "Alpha 250",
+      "ip": "play.alpha250.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-251",
+      "name": "Titan 251",
+      "ip": "play.titan251.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://titan251.net"
+    },
+    {
+      "id": "nova-252",
+      "name": "Nova 252",
+      "ip": "play.nova252.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://nova252.net"
+    },
+    {
+      "id": "royal-253",
+      "name": "Royal 253",
+      "ip": "play.royal253.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://royal253.net"
+    },
+    {
+      "id": "pro-254",
+      "name": "Pro 254",
+      "ip": "play.pro254.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://pro254.net"
+    },
+    {
+      "id": "lunar-255",
+      "name": "Lunar 255",
+      "ip": "play.lunar255.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-256",
+      "name": "Mountain 256",
+      "ip": "play.mountain256.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://mountain256.net"
+    },
+    {
+      "id": "silver-257",
+      "name": "Silver 257",
+      "ip": "play.silver257.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://silver257.net"
+    },
+    {
+      "id": "nexus-258",
+      "name": "Nexus 258",
+      "ip": "play.nexus258.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://nexus258.net"
+    },
+    {
+      "id": "astral-259",
+      "name": "Astral 259",
+      "ip": "play.astral259.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://astral259.net"
+    },
+    {
+      "id": "grand-260",
+      "name": "Grand 260",
+      "ip": "play.grand260.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-261",
+      "name": "Master 261",
+      "ip": "play.master261.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://master261.net"
+    },
+    {
+      "id": "solar-262",
+      "name": "Solar 262",
+      "ip": "play.solar262.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://solar262.net"
+    },
+    {
+      "id": "forest-263",
+      "name": "Forest 263",
+      "ip": "play.forest263.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://forest263.net"
+    },
+    {
+      "id": "gold-264",
+      "name": "Gold 264",
+      "ip": "play.gold264.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://gold264.net"
+    },
+    {
+      "id": "quantum-265",
+      "name": "Quantum 265",
+      "ip": "play.quantum265.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-266",
+      "name": "Infinity 266",
+      "ip": "play.infinity266.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://infinity266.net"
+    },
+    {
+      "id": "epic-267",
+      "name": "Epic 267",
+      "ip": "play.epic267.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://epic267.net"
+    },
+    {
+      "id": "supreme-268",
+      "name": "Supreme 268",
+      "ip": "play.supreme268.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://supreme268.net"
+    },
+    {
+      "id": "ghost-269",
+      "name": "Ghost 269",
+      "ip": "play.ghost269.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://ghost269.net"
+    },
+    {
+      "id": "ocean-270",
+      "name": "Ocean 270",
+      "ip": "play.ocean270.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-271",
+      "name": "Ruby 271",
+      "ip": "play.ruby271.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://ruby271.net"
+    },
+    {
+      "id": "prime-272",
+      "name": "Prime 272",
+      "ip": "play.prime272.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://prime272.net"
+    },
+    {
+      "id": "genesis-273",
+      "name": "Genesis 273",
+      "ip": "play.genesis273.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://genesis273.net"
+    },
+    {
+      "id": "ultra-274",
+      "name": "Ultra 274",
+      "ip": "play.ultra274.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://ultra274.net"
+    },
+    {
+      "id": "legendary-275",
+      "name": "Legendary 275",
+      "ip": "play.legendary275.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-276",
+      "name": "Phantom 276",
+      "ip": "play.phantom276.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://phantom276.net"
+    },
+    {
+      "id": "thunder-277",
+      "name": "Thunder 277",
+      "ip": "play.thunder277.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://thunder277.net"
+    },
+    {
+      "id": "emerald-278",
+      "name": "Emerald 278",
+      "ip": "play.emerald278.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://emerald278.net"
+    },
+    {
+      "id": "zenith-279",
+      "name": "Zenith 279",
+      "ip": "play.zenith279.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://zenith279.net"
+    },
+    {
+      "id": "elysium-280",
+      "name": "Elysium 280",
+      "ip": "play.elysium280.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-281",
+      "name": "Mega 281",
+      "ip": "play.mega281.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://mega281.net"
+    },
+    {
+      "id": "elite-282",
+      "name": "Elite 282",
+      "ip": "play.elite282.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://elite282.net"
+    },
+    {
+      "id": "shadow-283",
+      "name": "Shadow 283",
+      "ip": "play.shadow283.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://shadow283.net"
+    },
+    {
+      "id": "storm-284",
+      "name": "Storm 284",
+      "ip": "play.storm284.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://storm284.net"
+    },
+    {
+      "id": "diamond-285",
+      "name": "Diamond 285",
+      "ip": "play.diamond285.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-286",
+      "name": "Apex 286",
+      "ip": "play.apex286.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://apex286.net"
+    },
+    {
+      "id": "pioneer-287",
+      "name": "Pioneer 287",
+      "ip": "play.pioneer287.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://pioneer287.net"
+    },
+    {
+      "id": "hyper-288",
+      "name": "Hyper 288",
+      "ip": "play.hyper288.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://hyper288.net"
+    },
+    {
+      "id": "global-289",
+      "name": "Global 289",
+      "ip": "play.global289.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://global289.net"
+    },
+    {
+      "id": "neon-290",
+      "name": "Neon 290",
+      "ip": "play.neon290.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-291",
+      "name": "Flame 291",
+      "ip": "play.flame291.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://flame291.net"
+    },
+    {
+      "id": "crystal-292",
+      "name": "Crystal 292",
+      "ip": "play.crystal292.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://crystal292.net"
+    },
+    {
+      "id": "beta-293",
+      "name": "Beta 293",
+      "ip": "play.beta293.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://beta293.net"
+    },
+    {
+      "id": "vortex-294",
+      "name": "Vortex 294",
+      "ip": "play.vortex294.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://vortex294.net"
+    },
+    {
+      "id": "stellar-295",
+      "name": "Stellar 295",
+      "ip": "play.stellar295.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-296",
+      "name": "Imperial 296",
+      "ip": "play.imperial296.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://imperial296.net"
+    },
+    {
+      "id": "cyber-297",
+      "name": "Cyber 297",
+      "ip": "play.cyber297.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://cyber297.net"
+    },
+    {
+      "id": "frost-298",
+      "name": "Frost 298",
+      "ip": "play.frost298.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://frost298.net"
+    },
+    {
+      "id": "desert-299",
+      "name": "Desert 299",
+      "ip": "play.desert299.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://desert299.net"
+    },
+    {
+      "id": "alpha-300",
+      "name": "Alpha 300",
+      "ip": "play.alpha300.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-301",
+      "name": "Titan 301",
+      "ip": "play.titan301.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://titan301.net"
+    },
+    {
+      "id": "nova-302",
+      "name": "Nova 302",
+      "ip": "play.nova302.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://nova302.net"
+    },
+    {
+      "id": "royal-303",
+      "name": "Royal 303",
+      "ip": "play.royal303.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://royal303.net"
+    },
+    {
+      "id": "pro-304",
+      "name": "Pro 304",
+      "ip": "play.pro304.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://pro304.net"
+    },
+    {
+      "id": "lunar-305",
+      "name": "Lunar 305",
+      "ip": "play.lunar305.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-306",
+      "name": "Mountain 306",
+      "ip": "play.mountain306.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://mountain306.net"
+    },
+    {
+      "id": "silver-307",
+      "name": "Silver 307",
+      "ip": "play.silver307.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://silver307.net"
+    },
+    {
+      "id": "nexus-308",
+      "name": "Nexus 308",
+      "ip": "play.nexus308.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://nexus308.net"
+    },
+    {
+      "id": "astral-309",
+      "name": "Astral 309",
+      "ip": "play.astral309.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://astral309.net"
+    },
+    {
+      "id": "grand-310",
+      "name": "Grand 310",
+      "ip": "play.grand310.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-311",
+      "name": "Master 311",
+      "ip": "play.master311.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://master311.net"
+    },
+    {
+      "id": "solar-312",
+      "name": "Solar 312",
+      "ip": "play.solar312.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://solar312.net"
+    },
+    {
+      "id": "forest-313",
+      "name": "Forest 313",
+      "ip": "play.forest313.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://forest313.net"
+    },
+    {
+      "id": "gold-314",
+      "name": "Gold 314",
+      "ip": "play.gold314.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://gold314.net"
+    },
+    {
+      "id": "quantum-315",
+      "name": "Quantum 315",
+      "ip": "play.quantum315.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-316",
+      "name": "Infinity 316",
+      "ip": "play.infinity316.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://infinity316.net"
+    },
+    {
+      "id": "epic-317",
+      "name": "Epic 317",
+      "ip": "play.epic317.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://epic317.net"
+    },
+    {
+      "id": "supreme-318",
+      "name": "Supreme 318",
+      "ip": "play.supreme318.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://supreme318.net"
+    },
+    {
+      "id": "ghost-319",
+      "name": "Ghost 319",
+      "ip": "play.ghost319.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://ghost319.net"
+    },
+    {
+      "id": "ocean-320",
+      "name": "Ocean 320",
+      "ip": "play.ocean320.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-321",
+      "name": "Ruby 321",
+      "ip": "play.ruby321.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://ruby321.net"
+    },
+    {
+      "id": "prime-322",
+      "name": "Prime 322",
+      "ip": "play.prime322.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://prime322.net"
+    },
+    {
+      "id": "genesis-323",
+      "name": "Genesis 323",
+      "ip": "play.genesis323.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://genesis323.net"
+    },
+    {
+      "id": "ultra-324",
+      "name": "Ultra 324",
+      "ip": "play.ultra324.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://ultra324.net"
+    },
+    {
+      "id": "legendary-325",
+      "name": "Legendary 325",
+      "ip": "play.legendary325.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-326",
+      "name": "Phantom 326",
+      "ip": "play.phantom326.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://phantom326.net"
+    },
+    {
+      "id": "thunder-327",
+      "name": "Thunder 327",
+      "ip": "play.thunder327.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://thunder327.net"
+    },
+    {
+      "id": "emerald-328",
+      "name": "Emerald 328",
+      "ip": "play.emerald328.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://emerald328.net"
+    },
+    {
+      "id": "zenith-329",
+      "name": "Zenith 329",
+      "ip": "play.zenith329.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://zenith329.net"
+    },
+    {
+      "id": "elysium-330",
+      "name": "Elysium 330",
+      "ip": "play.elysium330.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-331",
+      "name": "Mega 331",
+      "ip": "play.mega331.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://mega331.net"
+    },
+    {
+      "id": "elite-332",
+      "name": "Elite 332",
+      "ip": "play.elite332.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://elite332.net"
+    },
+    {
+      "id": "shadow-333",
+      "name": "Shadow 333",
+      "ip": "play.shadow333.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://shadow333.net"
+    },
+    {
+      "id": "storm-334",
+      "name": "Storm 334",
+      "ip": "play.storm334.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://storm334.net"
+    },
+    {
+      "id": "diamond-335",
+      "name": "Diamond 335",
+      "ip": "play.diamond335.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-336",
+      "name": "Apex 336",
+      "ip": "play.apex336.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://apex336.net"
+    },
+    {
+      "id": "pioneer-337",
+      "name": "Pioneer 337",
+      "ip": "play.pioneer337.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://pioneer337.net"
+    },
+    {
+      "id": "hyper-338",
+      "name": "Hyper 338",
+      "ip": "play.hyper338.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://hyper338.net"
+    },
+    {
+      "id": "global-339",
+      "name": "Global 339",
+      "ip": "play.global339.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://global339.net"
+    },
+    {
+      "id": "neon-340",
+      "name": "Neon 340",
+      "ip": "play.neon340.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-341",
+      "name": "Flame 341",
+      "ip": "play.flame341.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://flame341.net"
+    },
+    {
+      "id": "crystal-342",
+      "name": "Crystal 342",
+      "ip": "play.crystal342.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://crystal342.net"
+    },
+    {
+      "id": "beta-343",
+      "name": "Beta 343",
+      "ip": "play.beta343.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://beta343.net"
+    },
+    {
+      "id": "vortex-344",
+      "name": "Vortex 344",
+      "ip": "play.vortex344.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://vortex344.net"
+    },
+    {
+      "id": "stellar-345",
+      "name": "Stellar 345",
+      "ip": "play.stellar345.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-346",
+      "name": "Imperial 346",
+      "ip": "play.imperial346.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://imperial346.net"
+    },
+    {
+      "id": "cyber-347",
+      "name": "Cyber 347",
+      "ip": "play.cyber347.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://cyber347.net"
+    },
+    {
+      "id": "frost-348",
+      "name": "Frost 348",
+      "ip": "play.frost348.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://frost348.net"
+    },
+    {
+      "id": "desert-349",
+      "name": "Desert 349",
+      "ip": "play.desert349.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://desert349.net"
+    },
+    {
+      "id": "alpha-350",
+      "name": "Alpha 350",
+      "ip": "play.alpha350.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-351",
+      "name": "Titan 351",
+      "ip": "play.titan351.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://titan351.net"
+    },
+    {
+      "id": "nova-352",
+      "name": "Nova 352",
+      "ip": "play.nova352.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://nova352.net"
+    },
+    {
+      "id": "royal-353",
+      "name": "Royal 353",
+      "ip": "play.royal353.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://royal353.net"
+    },
+    {
+      "id": "pro-354",
+      "name": "Pro 354",
+      "ip": "play.pro354.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://pro354.net"
+    },
+    {
+      "id": "lunar-355",
+      "name": "Lunar 355",
+      "ip": "play.lunar355.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-356",
+      "name": "Mountain 356",
+      "ip": "play.mountain356.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://mountain356.net"
+    },
+    {
+      "id": "silver-357",
+      "name": "Silver 357",
+      "ip": "play.silver357.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://silver357.net"
+    },
+    {
+      "id": "nexus-358",
+      "name": "Nexus 358",
+      "ip": "play.nexus358.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://nexus358.net"
+    },
+    {
+      "id": "astral-359",
+      "name": "Astral 359",
+      "ip": "play.astral359.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://astral359.net"
+    },
+    {
+      "id": "grand-360",
+      "name": "Grand 360",
+      "ip": "play.grand360.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-361",
+      "name": "Master 361",
+      "ip": "play.master361.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://master361.net"
+    },
+    {
+      "id": "solar-362",
+      "name": "Solar 362",
+      "ip": "play.solar362.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://solar362.net"
+    },
+    {
+      "id": "forest-363",
+      "name": "Forest 363",
+      "ip": "play.forest363.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://forest363.net"
+    },
+    {
+      "id": "gold-364",
+      "name": "Gold 364",
+      "ip": "play.gold364.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://gold364.net"
+    },
+    {
+      "id": "quantum-365",
+      "name": "Quantum 365",
+      "ip": "play.quantum365.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-366",
+      "name": "Infinity 366",
+      "ip": "play.infinity366.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://infinity366.net"
+    },
+    {
+      "id": "epic-367",
+      "name": "Epic 367",
+      "ip": "play.epic367.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://epic367.net"
+    },
+    {
+      "id": "supreme-368",
+      "name": "Supreme 368",
+      "ip": "play.supreme368.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://supreme368.net"
+    },
+    {
+      "id": "ghost-369",
+      "name": "Ghost 369",
+      "ip": "play.ghost369.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://ghost369.net"
+    },
+    {
+      "id": "ocean-370",
+      "name": "Ocean 370",
+      "ip": "play.ocean370.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-371",
+      "name": "Ruby 371",
+      "ip": "play.ruby371.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://ruby371.net"
+    },
+    {
+      "id": "prime-372",
+      "name": "Prime 372",
+      "ip": "play.prime372.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://prime372.net"
+    },
+    {
+      "id": "genesis-373",
+      "name": "Genesis 373",
+      "ip": "play.genesis373.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://genesis373.net"
+    },
+    {
+      "id": "ultra-374",
+      "name": "Ultra 374",
+      "ip": "play.ultra374.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://ultra374.net"
+    },
+    {
+      "id": "legendary-375",
+      "name": "Legendary 375",
+      "ip": "play.legendary375.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-376",
+      "name": "Phantom 376",
+      "ip": "play.phantom376.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://phantom376.net"
+    },
+    {
+      "id": "thunder-377",
+      "name": "Thunder 377",
+      "ip": "play.thunder377.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://thunder377.net"
+    },
+    {
+      "id": "emerald-378",
+      "name": "Emerald 378",
+      "ip": "play.emerald378.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://emerald378.net"
+    },
+    {
+      "id": "zenith-379",
+      "name": "Zenith 379",
+      "ip": "play.zenith379.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://zenith379.net"
+    },
+    {
+      "id": "elysium-380",
+      "name": "Elysium 380",
+      "ip": "play.elysium380.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-381",
+      "name": "Mega 381",
+      "ip": "play.mega381.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://mega381.net"
+    },
+    {
+      "id": "elite-382",
+      "name": "Elite 382",
+      "ip": "play.elite382.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://elite382.net"
+    },
+    {
+      "id": "shadow-383",
+      "name": "Shadow 383",
+      "ip": "play.shadow383.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://shadow383.net"
+    },
+    {
+      "id": "storm-384",
+      "name": "Storm 384",
+      "ip": "play.storm384.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://storm384.net"
+    },
+    {
+      "id": "diamond-385",
+      "name": "Diamond 385",
+      "ip": "play.diamond385.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-386",
+      "name": "Apex 386",
+      "ip": "play.apex386.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://apex386.net"
+    },
+    {
+      "id": "pioneer-387",
+      "name": "Pioneer 387",
+      "ip": "play.pioneer387.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://pioneer387.net"
+    },
+    {
+      "id": "hyper-388",
+      "name": "Hyper 388",
+      "ip": "play.hyper388.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://hyper388.net"
+    },
+    {
+      "id": "global-389",
+      "name": "Global 389",
+      "ip": "play.global389.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://global389.net"
+    },
+    {
+      "id": "neon-390",
+      "name": "Neon 390",
+      "ip": "play.neon390.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-391",
+      "name": "Flame 391",
+      "ip": "play.flame391.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://flame391.net"
+    },
+    {
+      "id": "crystal-392",
+      "name": "Crystal 392",
+      "ip": "play.crystal392.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://crystal392.net"
+    },
+    {
+      "id": "beta-393",
+      "name": "Beta 393",
+      "ip": "play.beta393.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://beta393.net"
+    },
+    {
+      "id": "vortex-394",
+      "name": "Vortex 394",
+      "ip": "play.vortex394.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://vortex394.net"
+    },
+    {
+      "id": "stellar-395",
+      "name": "Stellar 395",
+      "ip": "play.stellar395.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-396",
+      "name": "Imperial 396",
+      "ip": "play.imperial396.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://imperial396.net"
+    },
+    {
+      "id": "cyber-397",
+      "name": "Cyber 397",
+      "ip": "play.cyber397.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://cyber397.net"
+    },
+    {
+      "id": "frost-398",
+      "name": "Frost 398",
+      "ip": "play.frost398.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://frost398.net"
+    },
+    {
+      "id": "desert-399",
+      "name": "Desert 399",
+      "ip": "play.desert399.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://desert399.net"
+    },
+    {
+      "id": "alpha-400",
+      "name": "Alpha 400",
+      "ip": "play.alpha400.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-401",
+      "name": "Titan 401",
+      "ip": "play.titan401.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://titan401.net"
+    },
+    {
+      "id": "nova-402",
+      "name": "Nova 402",
+      "ip": "play.nova402.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://nova402.net"
+    },
+    {
+      "id": "royal-403",
+      "name": "Royal 403",
+      "ip": "play.royal403.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://royal403.net"
+    },
+    {
+      "id": "pro-404",
+      "name": "Pro 404",
+      "ip": "play.pro404.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://pro404.net"
+    },
+    {
+      "id": "lunar-405",
+      "name": "Lunar 405",
+      "ip": "play.lunar405.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-406",
+      "name": "Mountain 406",
+      "ip": "play.mountain406.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://mountain406.net"
+    },
+    {
+      "id": "silver-407",
+      "name": "Silver 407",
+      "ip": "play.silver407.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://silver407.net"
+    },
+    {
+      "id": "nexus-408",
+      "name": "Nexus 408",
+      "ip": "play.nexus408.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://nexus408.net"
+    },
+    {
+      "id": "astral-409",
+      "name": "Astral 409",
+      "ip": "play.astral409.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://astral409.net"
+    },
+    {
+      "id": "grand-410",
+      "name": "Grand 410",
+      "ip": "play.grand410.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-411",
+      "name": "Master 411",
+      "ip": "play.master411.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://master411.net"
+    },
+    {
+      "id": "solar-412",
+      "name": "Solar 412",
+      "ip": "play.solar412.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://solar412.net"
+    },
+    {
+      "id": "forest-413",
+      "name": "Forest 413",
+      "ip": "play.forest413.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://forest413.net"
+    },
+    {
+      "id": "gold-414",
+      "name": "Gold 414",
+      "ip": "play.gold414.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://gold414.net"
+    },
+    {
+      "id": "quantum-415",
+      "name": "Quantum 415",
+      "ip": "play.quantum415.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-416",
+      "name": "Infinity 416",
+      "ip": "play.infinity416.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://infinity416.net"
+    },
+    {
+      "id": "epic-417",
+      "name": "Epic 417",
+      "ip": "play.epic417.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://epic417.net"
+    },
+    {
+      "id": "supreme-418",
+      "name": "Supreme 418",
+      "ip": "play.supreme418.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://supreme418.net"
+    },
+    {
+      "id": "ghost-419",
+      "name": "Ghost 419",
+      "ip": "play.ghost419.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://ghost419.net"
+    },
+    {
+      "id": "ocean-420",
+      "name": "Ocean 420",
+      "ip": "play.ocean420.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-421",
+      "name": "Ruby 421",
+      "ip": "play.ruby421.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://ruby421.net"
+    },
+    {
+      "id": "prime-422",
+      "name": "Prime 422",
+      "ip": "play.prime422.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://prime422.net"
+    },
+    {
+      "id": "genesis-423",
+      "name": "Genesis 423",
+      "ip": "play.genesis423.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://genesis423.net"
+    },
+    {
+      "id": "ultra-424",
+      "name": "Ultra 424",
+      "ip": "play.ultra424.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://ultra424.net"
+    },
+    {
+      "id": "legendary-425",
+      "name": "Legendary 425",
+      "ip": "play.legendary425.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-426",
+      "name": "Phantom 426",
+      "ip": "play.phantom426.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://phantom426.net"
+    },
+    {
+      "id": "thunder-427",
+      "name": "Thunder 427",
+      "ip": "play.thunder427.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://thunder427.net"
+    },
+    {
+      "id": "emerald-428",
+      "name": "Emerald 428",
+      "ip": "play.emerald428.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://emerald428.net"
+    },
+    {
+      "id": "zenith-429",
+      "name": "Zenith 429",
+      "ip": "play.zenith429.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://zenith429.net"
+    },
+    {
+      "id": "elysium-430",
+      "name": "Elysium 430",
+      "ip": "play.elysium430.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-431",
+      "name": "Mega 431",
+      "ip": "play.mega431.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://mega431.net"
+    },
+    {
+      "id": "elite-432",
+      "name": "Elite 432",
+      "ip": "play.elite432.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://elite432.net"
+    },
+    {
+      "id": "shadow-433",
+      "name": "Shadow 433",
+      "ip": "play.shadow433.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://shadow433.net"
+    },
+    {
+      "id": "storm-434",
+      "name": "Storm 434",
+      "ip": "play.storm434.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://storm434.net"
+    },
+    {
+      "id": "diamond-435",
+      "name": "Diamond 435",
+      "ip": "play.diamond435.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-436",
+      "name": "Apex 436",
+      "ip": "play.apex436.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://apex436.net"
+    },
+    {
+      "id": "pioneer-437",
+      "name": "Pioneer 437",
+      "ip": "play.pioneer437.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://pioneer437.net"
+    },
+    {
+      "id": "hyper-438",
+      "name": "Hyper 438",
+      "ip": "play.hyper438.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://hyper438.net"
+    },
+    {
+      "id": "global-439",
+      "name": "Global 439",
+      "ip": "play.global439.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://global439.net"
+    },
+    {
+      "id": "neon-440",
+      "name": "Neon 440",
+      "ip": "play.neon440.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-441",
+      "name": "Flame 441",
+      "ip": "play.flame441.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://flame441.net"
+    },
+    {
+      "id": "crystal-442",
+      "name": "Crystal 442",
+      "ip": "play.crystal442.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://crystal442.net"
+    },
+    {
+      "id": "beta-443",
+      "name": "Beta 443",
+      "ip": "play.beta443.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://beta443.net"
+    },
+    {
+      "id": "vortex-444",
+      "name": "Vortex 444",
+      "ip": "play.vortex444.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://vortex444.net"
+    },
+    {
+      "id": "stellar-445",
+      "name": "Stellar 445",
+      "ip": "play.stellar445.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-446",
+      "name": "Imperial 446",
+      "ip": "play.imperial446.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://imperial446.net"
+    },
+    {
+      "id": "cyber-447",
+      "name": "Cyber 447",
+      "ip": "play.cyber447.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://cyber447.net"
+    },
+    {
+      "id": "frost-448",
+      "name": "Frost 448",
+      "ip": "play.frost448.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://frost448.net"
+    },
+    {
+      "id": "desert-449",
+      "name": "Desert 449",
+      "ip": "play.desert449.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://desert449.net"
+    },
+    {
+      "id": "alpha-450",
+      "name": "Alpha 450",
+      "ip": "play.alpha450.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "titan-451",
+      "name": "Titan 451",
+      "ip": "play.titan451.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://titan451.net"
+    },
+    {
+      "id": "nova-452",
+      "name": "Nova 452",
+      "ip": "play.nova452.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://nova452.net"
+    },
+    {
+      "id": "royal-453",
+      "name": "Royal 453",
+      "ip": "play.royal453.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://royal453.net"
+    },
+    {
+      "id": "pro-454",
+      "name": "Pro 454",
+      "ip": "play.pro454.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://pro454.net"
+    },
+    {
+      "id": "lunar-455",
+      "name": "Lunar 455",
+      "ip": "play.lunar455.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mountain-456",
+      "name": "Mountain 456",
+      "ip": "play.mountain456.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://mountain456.net"
+    },
+    {
+      "id": "silver-457",
+      "name": "Silver 457",
+      "ip": "play.silver457.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://silver457.net"
+    },
+    {
+      "id": "nexus-458",
+      "name": "Nexus 458",
+      "ip": "play.nexus458.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://nexus458.net"
+    },
+    {
+      "id": "astral-459",
+      "name": "Astral 459",
+      "ip": "play.astral459.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://astral459.net"
+    },
+    {
+      "id": "grand-460",
+      "name": "Grand 460",
+      "ip": "play.grand460.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "master-461",
+      "name": "Master 461",
+      "ip": "play.master461.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://master461.net"
+    },
+    {
+      "id": "solar-462",
+      "name": "Solar 462",
+      "ip": "play.solar462.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://solar462.net"
+    },
+    {
+      "id": "forest-463",
+      "name": "Forest 463",
+      "ip": "play.forest463.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://forest463.net"
+    },
+    {
+      "id": "gold-464",
+      "name": "Gold 464",
+      "ip": "play.gold464.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://gold464.net"
+    },
+    {
+      "id": "quantum-465",
+      "name": "Quantum 465",
+      "ip": "play.quantum465.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "infinity-466",
+      "name": "Infinity 466",
+      "ip": "play.infinity466.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://infinity466.net"
+    },
+    {
+      "id": "epic-467",
+      "name": "Epic 467",
+      "ip": "play.epic467.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://epic467.net"
+    },
+    {
+      "id": "supreme-468",
+      "name": "Supreme 468",
+      "ip": "play.supreme468.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://supreme468.net"
+    },
+    {
+      "id": "ghost-469",
+      "name": "Ghost 469",
+      "ip": "play.ghost469.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://ghost469.net"
+    },
+    {
+      "id": "ocean-470",
+      "name": "Ocean 470",
+      "ip": "play.ocean470.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "ruby-471",
+      "name": "Ruby 471",
+      "ip": "play.ruby471.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://ruby471.net"
+    },
+    {
+      "id": "prime-472",
+      "name": "Prime 472",
+      "ip": "play.prime472.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://prime472.net"
+    },
+    {
+      "id": "genesis-473",
+      "name": "Genesis 473",
+      "ip": "play.genesis473.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://genesis473.net"
+    },
+    {
+      "id": "ultra-474",
+      "name": "Ultra 474",
+      "ip": "play.ultra474.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://ultra474.net"
+    },
+    {
+      "id": "legendary-475",
+      "name": "Legendary 475",
+      "ip": "play.legendary475.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "phantom-476",
+      "name": "Phantom 476",
+      "ip": "play.phantom476.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://phantom476.net"
+    },
+    {
+      "id": "thunder-477",
+      "name": "Thunder 477",
+      "ip": "play.thunder477.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://thunder477.net"
+    },
+    {
+      "id": "emerald-478",
+      "name": "Emerald 478",
+      "ip": "play.emerald478.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://emerald478.net"
+    },
+    {
+      "id": "zenith-479",
+      "name": "Zenith 479",
+      "ip": "play.zenith479.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://zenith479.net"
+    },
+    {
+      "id": "elysium-480",
+      "name": "Elysium 480",
+      "ip": "play.elysium480.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "mega-481",
+      "name": "Mega 481",
+      "ip": "play.mega481.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://mega481.net"
+    },
+    {
+      "id": "elite-482",
+      "name": "Elite 482",
+      "ip": "play.elite482.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://elite482.net"
+    },
+    {
+      "id": "shadow-483",
+      "name": "Shadow 483",
+      "ip": "play.shadow483.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://shadow483.net"
+    },
+    {
+      "id": "storm-484",
+      "name": "Storm 484",
+      "ip": "play.storm484.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://storm484.net"
+    },
+    {
+      "id": "diamond-485",
+      "name": "Diamond 485",
+      "ip": "play.diamond485.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "apex-486",
+      "name": "Apex 486",
+      "ip": "play.apex486.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://apex486.net"
+    },
+    {
+      "id": "pioneer-487",
+      "name": "Pioneer 487",
+      "ip": "play.pioneer487.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://pioneer487.net"
+    },
+    {
+      "id": "hyper-488",
+      "name": "Hyper 488",
+      "ip": "play.hyper488.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://hyper488.net"
+    },
+    {
+      "id": "global-489",
+      "name": "Global 489",
+      "ip": "play.global489.net",
+      "category": "Towny",
+      "description": "Build towns and nations, trade with players, and wage peaceful or epic wars.",
+      "website": "https://global489.net"
+    },
+    {
+      "id": "neon-490",
+      "name": "Neon 490",
+      "ip": "play.neon490.net",
+      "category": "SMP",
+      "description": "Vanilla-plus survival multiplayer server with community events and shopping district.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "flame-491",
+      "name": "Flame 491",
+      "ip": "play.flame491.net",
+      "category": "Pixelmon",
+      "description": "Catch, train, and battle Pok\u00e9mon in a fully realized Minecraft pixelmon world.",
+      "website": "https://flame491.net"
+    },
+    {
+      "id": "crystal-492",
+      "name": "Crystal 492",
+      "ip": "play.crystal492.net",
+      "category": "Survival",
+      "description": "Immersive survival multiplayer experience with custom economy, claims, and friendly community.",
+      "website": "https://crystal492.net"
+    },
+    {
+      "id": "beta-493",
+      "name": "Beta 493",
+      "ip": "play.beta493.net",
+      "category": "Skyblock",
+      "description": "Challenging skyblock island adventure with custom minions, generators, and market.",
+      "website": "https://beta493.net"
+    },
+    {
+      "id": "vortex-494",
+      "name": "Vortex 494",
+      "ip": "play.vortex494.net",
+      "category": "Minigames",
+      "description": "Action-packed minigame hub featuring custom games, tournaments, and cosmetics.",
+      "website": "https://vortex494.net"
+    },
+    {
+      "id": "stellar-495",
+      "name": "Stellar 495",
+      "ip": "play.stellar495.net",
+      "category": "Factions",
+      "description": "Competitive factions server with raiding, custom enchants, and weekly payouts.",
+      "website": "https://www.minecraft.net"
+    },
+    {
+      "id": "imperial-496",
+      "name": "Imperial 496",
+      "ip": "play.imperial496.net",
+      "category": "RPG",
+      "description": "Fantasy roleplaying adventure with custom classes, dungeons, and open-world quests.",
+      "website": "https://imperial496.net"
+    },
+    {
+      "id": "cyber-497",
+      "name": "Cyber 497",
+      "ip": "play.cyber497.net",
+      "category": "Prison",
+      "description": "Progressive prison server with custom mines, prestige ranks, and plots.",
+      "website": "https://cyber497.net"
+    },
+    {
+      "id": "frost-498",
+      "name": "Frost 498",
+      "ip": "play.frost498.net",
+      "category": "Creative",
+      "description": "Build to your heart's content on large plots with worldedit and schematic tools.",
+      "website": "https://frost498.net"
+    },
+    {
+      "id": "desert-499",
+      "name": "Desert 499",
+      "ip": "play.desert499.net",
+      "category": "Anarchy",
+      "description": "Unrestricted survival anarchy server with no rules, hacks allowed, and raw gameplay.",
+      "website": "https://desert499.net"
+    },
+    {
+      "id": "alpha-500",
+      "name": "Alpha 500",
+      "ip": "play.alpha500.net",
+      "category": "Practice",
+      "description": "PvP practice server with unranked/ranked queues, pots, debuff, and nodefend.",
+      "website": "https://www.minecraft.net"
+    }
+  ]
+}
