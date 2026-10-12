@@ -1,14 +1,4 @@
-Unterhaltung mit Gemini
-
-generate me a jason file with all of the most popular miencraft servers 500 servers in this format {
-
-  "schema": 1,
-
-  "name": "My Server List",
-
-  "updated": "2026-10-12",
-
-  "servers": [
+{
 
     {
 
